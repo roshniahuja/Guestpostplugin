@@ -1,0 +1,4 @@
+This plugin will create custom post type and form in front end to create post and will insert into guestposts custom post type with draft status and admin will receive email notification for the same.
+It will display form in front end using [guest_post_form] shortcode and it will insert post with the help of ajax. 
+[userwise_pending_posts] shortcode will display pending post list which are created by particular author. 
+[pending_postslist] shortcode will display all pending post using pagination.
